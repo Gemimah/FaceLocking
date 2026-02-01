@@ -6,7 +6,7 @@ Enhances a CPU-only ArcFace face recognition system with Face Locking: tracks a 
 
 **Features**
 
-Manual target selection (currently "Gabriel")
+Manual target selection (currently "Gemimah")
 
 Face Locking: locks on the target identity, ignores others
 
