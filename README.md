@@ -1,4 +1,4 @@
-## Face Locking – Intelligent Robotics Assignment
+## Face Locking – Intelligent Robotics 
 
 **Overview**
 
